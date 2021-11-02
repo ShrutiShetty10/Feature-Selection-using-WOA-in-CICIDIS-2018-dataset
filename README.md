@@ -1,1 +1,2 @@
-# Feature-Selection-using-WOA-in-CICIDIS-2018-dataset
+# Feature-Selection-using-WOA
+Distributed denial-of-service (DDoS) attacks are one of the major threats and possibly the hardest security problem for today’s Internet.These attacks seek to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet.Whale optimization algorithm (WOA) is a recently developed swarm-based meta-heuristic algorithm that is based on the bubble-net hunting maneuver technique—of humpback whales—for solving complex optimization problems.In this project WOA is used for feature selection from the CICIDS 2018 dataset.
